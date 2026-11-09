@@ -1,0 +1,14 @@
+# CSVs grandes (dados brutos e tratados) - acima do recomendado pelo GitHub
+# Os tratados podem ser regenerados com os scripts Tratamento_LAI_*.py
+20261104_Pedidos_csv_2024.csv
+20261106_Pedidos_csv_2025.csv
+20261107_Pedidos_csv_2023.csv
+DadosAbertos_LAI_2023_2025_tratado.csv
+DadosAbertos_LAI_2024_tratado.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
